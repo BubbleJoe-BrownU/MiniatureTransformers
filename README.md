@@ -23,6 +23,11 @@ This repository features a list of designs:
   - Learnable Position Embedding (Transformer, BERT)
   - Rotary Position Embedding (Roformer)
   - Extrapolable Position Embedding (Length-Extrapolatable Transformer)
+- Sampling:
+  - Temperature-based Sampler
+  - Top-k Sampler
+  - Nucleus (top-p) Sampler
+
 
 
 ## Current Progress
